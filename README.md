@@ -33,5 +33,5 @@ Real-time monitoring and decision-making for wheat crop conditions.
 For detailed documentation and code explanation, refer to [My Final Report](https://docs.google.com/document/d/1T5V3xuKrQYC54dFMUJxomQEmFo7yxKxH/edit#heading=h.1fob9te). It provides guidelines on running the project, insights into the code structure, and explanations of key algorithms and thresholds.
 
 ## Conclusion
-This project offers a comprehensive solution for wheat crop tracking, leveraging image analysis techniques. The README provides a brief overview of the project, installation instructions, and details on usage, features, testing, and documentation.
+This project offers a comprehensive solution for wheat crop tracking, leveraging image analysis techniques. The README provides a brief overview of the project, installation instructions, and details on usage, features and documentation.
 
